@@ -20,3 +20,4 @@ For my projects, i will be using the _**GitHub Flow**_ branching strategy. In th
 ### .gitignore file use for each project
 ### Storage of credentials and sensitive information
 ### Reference List for Project 1
+https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf
