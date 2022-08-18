@@ -12,7 +12,8 @@ For my projects i will create 5 different repositories in which all the projects
 All of these 5 projects will check the project requirements for the _**Portfolio of Evidence submission**_. 
 
 ### Repository to Projects Diagram explaination
-![This is an image](file:///C:/Users/mazoy/Desktop/Repository%20to%20Project%20Link.html)
+![Repository to Project Link](https://user-images.githubusercontent.com/110614288/185367302-35a4c7c6-67ae-43d8-97c0-7eabbd58943a.png)
+
 
 ### Branching Strategy
 For my projects, i will be using the _**GitHub Flow**_ branching strategy. In this strategy, i will be merging all my different 'work'/code into the _master_ branch. Each time i work on something new, i will create a branch off from _master_ and give it a descriptive name. I will consistently push my work to the same named branch on the server after commiting to the branch created. I will then open a _pull request_ each time i am ready to merge to the master branch. 
