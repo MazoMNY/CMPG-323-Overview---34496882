@@ -22,4 +22,5 @@ For my projects, i will be using the _**GitHub Flow**_ branching strategy. In th
 ### Reference List for Project 1
 
 Porto, P. 2018, 27 Feb. 4 branching workflows for Git [Blog post]. https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf Date of access: 16 Aug. 2022
+
 GitHub Docs. 2022. Basic writing and formatting syntax. https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax Date of access: 16 Aug. 2022.
