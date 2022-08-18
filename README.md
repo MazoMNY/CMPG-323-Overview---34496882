@@ -29,3 +29,5 @@ GitHub Docs. 2022. Basic writing and formatting syntax. https://docs.github.com/
 Andreas Waatz. 2020, 14 Apr. How to Add Collaborator to Repository in Github 2020 [YouTube video]. https://youtu.be/p49LRx3hYI8 Date of access:  15 Aug. 2022.
 
 Andreas Waatz. 2020, 29 Aug. How to Change Repository From Private to Public 2020 [YouTube video]. https://youtu.be/S9f6K7tUfs8 Date of access: 15 Aug. 2022
+
+Santa Cruz G, J. 2019, 20 Sep. Angular Monorepo pains and how to overcome them [Blog post]. https://itnext.io/monorepo-pains-9064db3b9882 Date of access: 18 Aug. 2022
