@@ -13,6 +13,7 @@ All of these 5 projects will check the project requirements for the _**Portfolio
 
 ### Repository to Projects Diagram explaination
 ### Branching Strategy
+For my projects, i will be using the GitHub Flow branching strategy. 
 ### .gitignore file use for each project
 ### Storage of credentials and sensitive information
 ### Reference List for Project 1
