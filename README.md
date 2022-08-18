@@ -24,7 +24,7 @@ For each project, the _.gitignore_ file will be used to store all the other file
 
 ### Storage of credentials and sensitive information
 
-Credentials include username and passwords. A file such as **_"wp-config.php"_** could have username and passwords to databases. Therefore, the storage of sensitive information on github is not advised, for mistakes as such could allow an attacker to capture all the passwords and have access to all the secrets on the repository. This could lead to a security disaster. To prevent the mistake of leaving secrets on the GitHub repository, the use of git-secrets is an option. You should also enable MFA for all your GitHub accounts. In addition to the README.md file, you need to include a SECURITY.md file that includes security information for your project.
+Credentials include username and passwords. A file such as **_"wp-config.php"_** could have username and passwords to databases. Therefore, the storage of sensitive information on github is not advised, for mistakes as such could allow an attacker to capture all the passwords and have access to all the secrets on the repository. This could lead to a security disaster. To prevent the mistake of leaving secrets on the GitHub repository, the use of git-secrets is an option. I will also enable MFA for my GitHub account. In addition to the README.md file, i will include a SECURITY.md file that includes security information for my project. i will also disable forking.
 
 ### Reference List for Project 1
 
