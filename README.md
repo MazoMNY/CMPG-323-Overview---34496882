@@ -7,3 +7,4 @@ For my projects i have concluded that the use of one repository, respectively th
 ### Branching Strategy
 ### .gitignore file use for each project
 ### Storage of credentials and sensitive information
+### Reference List for Project 1
