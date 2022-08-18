@@ -28,14 +28,16 @@ Credentials include username and passwords. A file such as **_"wp-config.php"_**
 
 ### Reference List for Project 1
 
-Porto, P. 2018, 27 Feb. 4 branching workflows for Git [Blog post]. https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf Date of access: 16 Aug. 2022
-
-GitHub Docs. 2022. Basic writing and formatting syntax. https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax Date of access: 16 Aug. 2022.
-
-Andreas Waatz. 2020, 14 Apr. How to Add Collaborator to Repository in Github 2020 [YouTube video]. https://youtu.be/p49LRx3hYI8 Date of access:  15 Aug. 2022.
+Andreas Waatz. 2020, 14 Apr. How to Add Collaborator to Repository in Github 2020 [YouTube video]. https://youtu.be/p49LRx3hYI8 Date of access: 15 Aug. 2022
 
 Andreas Waatz. 2020, 29 Aug. How to Change Repository From Private to Public 2020 [YouTube video]. https://youtu.be/S9f6K7tUfs8 Date of access: 15 Aug. 2022
 
+GitHub Docs. 2022. Basic writing and formatting syntax. https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax Date of access: 16 Aug. 2022
+
+Porto, P. 2018, 27 Feb. 4 branching workflows for Git [Blog post]. https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf Date of access: 16 Aug. 2022
+
+PurpleBox. 2022, 25 Apr. 10 GitHub Security Best Practices [Blog post]. https://www.prplbx.com/resources/blog/10-github-security-best-practices/ Date of access: 18 Aug. 2022
+
 Santa Cruz G, J. 2019, 20 Sep. Angular Monorepo pains and how to overcome them [Blog post]. https://itnext.io/monorepo-pains-9064db3b9882 Date of access: 18 Aug. 2022
 
-Z (Zell). 2015, 7 Oct. What to add to your Gitignore File. https://zellwk.com/blog/gitignore/ Date of access: 18 Aug.2022
+Z (Zell). 2015, 7 Oct. What to add to your Gitignore File [Blog post]. https://zellwk.com/blog/gitignore/ Date of access: 18 Aug. 2022
