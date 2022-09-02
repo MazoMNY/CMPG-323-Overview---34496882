@@ -41,3 +41,17 @@ PurpleBox. 2022, 25 Apr. 10 GitHub Security Best Practices [Blog post]. https://
 Santa Cruz G, J. 2019, 20 Sep. Angular Monorepo pains and how to overcome them [Blog post]. https://itnext.io/monorepo-pains-9064db3b9882 Date of access: 18 Aug. 2022
 
 Z (Zell). 2015, 7 Oct. What to add to your Gitignore File [Blog post]. https://zellwk.com/blog/gitignore/ Date of access: 18 Aug. 2022
+
+## Chart Diagrams
+### Burndown Chart
+![Burndown Chart](https://user-images.githubusercontent.com/110614288/188154056-4e992ab5-fff8-45e9-8918-b5434d088c21.jpg)
+
+### Number of Items by Label Chart
+![Number of Items by Label chart](https://user-images.githubusercontent.com/110614288/188154173-0843acf0-0b41-4952-98cc-bcfa2700061e.jpg)
+
+### Number of Items by Sprint Chart
+![Number of Items by Sprint chart](https://user-images.githubusercontent.com/110614288/188154267-e8be5ec0-190d-4508-a603-f120f83216e8.jpg)
+
+### Number of Items by Status Chart
+![Number of Items by Status chart](https://user-images.githubusercontent.com/110614288/188154352-1211364b-cdb3-4c13-a3ec-dad98f3402d4.jpg)
+
