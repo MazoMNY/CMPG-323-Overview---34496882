@@ -4,7 +4,7 @@
 ### Repositories and projects information
 For my projects i will create 5 different repositories in which all the projects tasks will be done, respectively the:
 - _**CMPG-323 - Overview**_ repository for _project 1_ [https://github.com/MazoMNY/CMPG-323-Overview---34496882-]
-- _**CMPG 323 - Project 2**_ repository for project 2
+- _**CMPG 323 - Project 2**_ repository for project 2 [https://github.com/MazoMNY/CMPG-323-Project-2---34496882]
 - _**CMPG 323 - Project 3**_ repository for project 3
 - _**CMPG 323 Project 4**_ repository for project 4
 - _**CMPG 323 Project 5**_ repository for project 5
