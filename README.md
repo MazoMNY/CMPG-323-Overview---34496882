@@ -27,30 +27,30 @@ To prevent the mistake of leaving secrets on the GitHub repository, the use of _
 A file such as **_"wp-config.php"_** could have username and passwords to databases. Therefore, the storage of sensitive information on github is not advised, for mistakes as such could allow an attacker to capture all the passwords and have access to all the secrets on the repository. This could lead to a security disaster. I will also enable MFA for my GitHub account. 
 
 ## CHART DIAGRAMS (Before any project has been done)
-### Burndown Chart
+### BURNDOWN CHART
 ![Burndown Chart](https://user-images.githubusercontent.com/110614288/188154056-4e992ab5-fff8-45e9-8918-b5434d088c21.jpg)
 
-### Number of Items by Label Chart
+### NUMBER OF ITEMS BY LABEL CHART
 ![Number of Items by Label chart](https://user-images.githubusercontent.com/110614288/188154173-0843acf0-0b41-4952-98cc-bcfa2700061e.jpg)
 
-### Number of Items by Sprint Chart
+### NUMBER OF ITEMS BY SPRINT CHAR
 ![Number of Items by Sprint chart](https://user-images.githubusercontent.com/110614288/188154267-e8be5ec0-190d-4508-a603-f120f83216e8.jpg)
 
-### Number of Items by Status Chart
+### NUMBER OF ITEMS BY STATUS CHART
 ![Number of Items by Status chart](https://user-images.githubusercontent.com/110614288/188154352-1211364b-cdb3-4c13-a3ec-dad98f3402d4.jpg)
 
 # UPDATED LOOKS OF THE VISUALIZATIONS (After all the projects have been completed)
 
-## BURNDOWN CHART
+### BURNDOWN CHART
 ![image](https://user-images.githubusercontent.com/110614288/202721088-c2db5bd2-c0c0-4b1c-a8fd-b7b9818bb112.png)
 
-## NUMBER OF ITEMS BY LABEL CHART
+### NUMBER OF ITEMS BY LABEL CHART
 ![image](https://user-images.githubusercontent.com/110614288/202721202-80a3b0f7-c30a-4789-86d6-0d19af71a898.png)
 
-## NUMBER OF ITEMS BY SPRINT CHART
+### NUMBER OF ITEMS BY SPRINT CHART
 ![image](https://user-images.githubusercontent.com/110614288/202721301-86c31ba4-eb81-4ae0-affd-d83b2e5ef0e9.png)
 
-## NUMBER OF ITEMS BY STATUS CHART
+### NUMBER OF ITEMS BY STATUS CHART
 ![image](https://user-images.githubusercontent.com/110614288/202721399-aa136547-dcfb-4c2f-baf5-3da0a66288c7.png)
 
 
