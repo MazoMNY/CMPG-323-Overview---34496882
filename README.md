@@ -39,3 +39,20 @@ A file such as **_"wp-config.php"_** could have username and passwords to databa
 ### Number of Items by Status Chart
 ![Number of Items by Status chart](https://user-images.githubusercontent.com/110614288/188154352-1211364b-cdb3-4c13-a3ec-dad98f3402d4.jpg)
 
+# UPDATED LOOKS OF THE VISUALIZATIONS (After all the projects have been completed)
+
+## BURNDOWN CHART
+![image](https://user-images.githubusercontent.com/110614288/202721088-c2db5bd2-c0c0-4b1c-a8fd-b7b9818bb112.png)
+
+## NUMBER OF ITEMS BY LABEL CHART
+![image](https://user-images.githubusercontent.com/110614288/202721202-80a3b0f7-c30a-4789-86d6-0d19af71a898.png)
+
+## NUMBER OF ITEMS BY SPRINT CHART
+![image](https://user-images.githubusercontent.com/110614288/202721301-86c31ba4-eb81-4ae0-affd-d83b2e5ef0e9.png)
+
+## NUMBER OF ITEMS BY STATUS CHART
+![image](https://user-images.githubusercontent.com/110614288/202721399-aa136547-dcfb-4c2f-baf5-3da0a66288c7.png)
+
+
+
+
