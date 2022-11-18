@@ -26,7 +26,7 @@ To prevent the mistake of leaving secrets on the GitHub repository, the use of _
 
 A file such as **_"wp-config.php"_** could have username and passwords to databases. Therefore, the storage of sensitive information on github is not advised, for mistakes as such could allow an attacker to capture all the passwords and have access to all the secrets on the repository. This could lead to a security disaster. I will also enable MFA for my GitHub account. 
 
-## Chart Diagrams
+## CHART DIAGRAMS (Before any project has been done)
 ### Burndown Chart
 ![Burndown Chart](https://user-images.githubusercontent.com/110614288/188154056-4e992ab5-fff8-45e9-8918-b5434d088c21.jpg)
 
